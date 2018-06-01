@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/HandmadeHero/Debug
+/HandmadeHero/.vs/HandmadeHero/v15
